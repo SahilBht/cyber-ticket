@@ -7,7 +7,7 @@ import requests
 from requests.auth import HTTPBasicAuth
 
 issues = {
-    "change": 10005,
+    "Change": 10005,
 	"Incident": 10001,
 	"Post-incident review": 10002,
 	"Problem": 10006,
